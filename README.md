@@ -1,2 +1,2 @@
-# reciando_snakegame
+# recriando_snakegame
 recriando o jogo da cobrinha
